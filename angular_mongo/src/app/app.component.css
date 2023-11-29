@@ -1,0 +1,21 @@
+mat-toolbar {
+    margin-bottom: 20px;
+}
+
+mat-form-field {
+    margin-right: 30px;
+}
+
+mat-accordion {
+    width: 50%;
+}
+
+mat-expansion-panel div.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+textarea {
+    width: 100%;
+}
